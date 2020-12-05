@@ -12,3 +12,4 @@ Languages used so far:
 | [02](https://adventofcode.com/2020/day/2) | [Password Philosophy](day02/) | [![Language - Python](https://img.shields.io/badge/Python-3572A5.svg?style=for-the-badge)](day02/password-philosophy.py) | 2/2 |
 | [03](https://adventofcode.com/2020/day/3) | [Toboggan Trajectory](day03/) | [![Language - Python](https://img.shields.io/badge/Python-3572A5.svg?style=for-the-badge)](day03/toboggan-trajectory.py) | 2/2 |
 | [04](https://adventofcode.com/2020/day/4) | [Passport Processing](day04/) | [![Language - Python](https://img.shields.io/badge/Python-3572A5.svg?style=for-the-badge)](day04/passport-processing.py) | 2/2 |
+| [05](https://adventofcode.com/2020/day/5) | [Binary Boarding](day05/) | [![Language - Python](https://img.shields.io/badge/Python-3572A5.svg?style=for-the-badge)](day05/binary-boarding.py) | 2/2 |
