@@ -18,6 +18,7 @@ Languages used so far:
 | [06](https://adventofcode.com/2020/day/6) | [Custom Customs](day06/) | [![Language - C++](https://img.shields.io/badge/C++-F34B7D.svg?style=for-the-badge)](day06/custom-customs.cpp) | 2/2 |
 | [07](https://adventofcode.com/2020/day/7) | [Handy Haversacks](day07/) | [![Language - C++](https://img.shields.io/badge/C++-f34b7d.svg?style=for-the-badge)](day07/handy-haversacks.cpp) | 2/2 |
 | [08](https://adventofcode.com/2020/day/8) | [Handheld Halting](day08/) | [![Language - C++](https://img.shields.io/badge/C++-f34b7d.svg?style=for-the-badge)](day08/handheld-halting.cpp) | 2/2 |
+| [09](https://adventofcode.com/2020/day/9) | [Encoding Error](day09/) | [![Language - C++](https://img.shields.io/badge/C++-f34b7d.svg?style=for-the-badge)](day09/encoding-error.cpp) | 2/2 |
 
 #### Note - Viewing the Scratch solutions
 You can easily see the Scratch solutions for yourself, by simply:
