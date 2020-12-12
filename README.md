@@ -22,6 +22,7 @@ Languages used so far:
 | [09](https://adventofcode.com/2020/day/9) | [Encoding Error](day09/) | [![Language - C++](https://img.shields.io/badge/C++-f34b7d.svg?style=for-the-badge)](day09/encoding-error.cpp) | :star: :star: |
 | [10](https://adventofcode.com/2020/day/10) | [Adapter Array](day10/) | [![Language - C++](https://img.shields.io/badge/C++-f34b7d.svg?style=for-the-badge)](day10/adapter-array.cpp) | :star: :star: |
 | [11](https://adventofcode.com/2020/day/11) | [Seating System](day11/) | [![Language - JavaScript](https://img.shields.io/badge/JavaScript-F1E05A.svg?style=for-the-badge)](day11/seating-system.js) | :star: :star: |
+| [12](https://adventofcode.com/2020/day/12) | [Rain Risk](day12/) | [![Language - JavaScript](https://img.shields.io/badge/JavaScript-F1E05A.svg?style=for-the-badge)](day12/rain-risk.js) | :star: :star: |
 
 #### Note - Viewing the Scratch solutions
 You can easily see the Scratch solutions for yourself, by simply:
