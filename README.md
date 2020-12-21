@@ -31,6 +31,7 @@ Languages used so far:
 | [17](https://adventofcode.com/2020/day/17) | [Conway Cubes](day17/) | [![Language - PHP](https://img.shields.io/badge/PHP-4F5D95.svg?style=for-the-badge)](day17/conway-cubes.php) | :star: :star: |
 | [18](https://adventofcode.com/2020/day/18) | [Operation Order](day18/) | [![Language - PHP](https://img.shields.io/badge/PHP-4F5D95.svg?style=for-the-badge)](day18/operation-order.php) | :star: :star: |
 | [19](https://adventofcode.com/2020/day/19) | [Monster Messages](day19/) | [![Language - PHP](https://img.shields.io/badge/PHP-4F5D95.svg?style=for-the-badge)](day19/monster-messages.php) | :star: :star: |
+| [20](https://adventofcode.com/2020/day/20) | [Jurassic Jigsaw](day20/) | [![Language - PHP](https://img.shields.io/badge/PHP-4F5D95.svg?style=for-the-badge)](day20/jurassic-jigsaw.php) | :star: :star: |
 
 #### Note - Viewing the Scratch solutions
 You can easily see the Scratch solutions for yourself, by simply:
