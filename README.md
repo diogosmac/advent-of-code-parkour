@@ -9,6 +9,7 @@ Languages used so far:
 ![Language - C++](https://img.shields.io/badge/C++-F34B7D.svg)
 ![Language - JavaScript](https://img.shields.io/badge/JavaScript-F1E05A.svg)
 ![Language - PHP](https://img.shields.io/badge/PHP-4F5D95.svg)
+![Language - Java](https://img.shields.io/badge/Java-B07219.svg)
 
 | Day | Title | Solutions | Stars |
 | :- | :- | :- | :- |
@@ -32,6 +33,7 @@ Languages used so far:
 | [18](https://adventofcode.com/2020/day/18) | [Operation Order](day18/) | [![Language - PHP](https://img.shields.io/badge/PHP-4F5D95.svg?style=for-the-badge)](day18/operation-order.php) | :star: :star: |
 | [19](https://adventofcode.com/2020/day/19) | [Monster Messages](day19/) | [![Language - PHP](https://img.shields.io/badge/PHP-4F5D95.svg?style=for-the-badge)](day19/monster-messages.php) | :star: :star: |
 | [20](https://adventofcode.com/2020/day/20) | [Jurassic Jigsaw](day20/) | [![Language - PHP](https://img.shields.io/badge/PHP-4F5D95.svg?style=for-the-badge)](day20/jurassic-jigsaw.php) | :star: :star: |
+| [21](https://adventofcode.com/2020/day/21) | [Allergen Assessment](day21/) | [![Language - Java](https://img.shields.io/badge/Java-B07219.svg?style=for-the-badge)](day21/allergen_assessment.java) | :star: :star: |
 
 #### Note - Viewing the Scratch solutions
 You can easily see the Scratch solutions for yourself, by simply:
