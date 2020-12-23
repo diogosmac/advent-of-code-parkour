@@ -34,6 +34,7 @@ Languages used so far:
 | [19](https://adventofcode.com/2020/day/19) | [Monster Messages](day19/) | [![Language - PHP](https://img.shields.io/badge/PHP-4F5D95.svg?style=for-the-badge)](day19/monster-messages.php) | :star: :star: |
 | [20](https://adventofcode.com/2020/day/20) | [Jurassic Jigsaw](day20/) | [![Language - PHP](https://img.shields.io/badge/PHP-4F5D95.svg?style=for-the-badge)](day20/jurassic-jigsaw.php) | :star: :star: |
 | [21](https://adventofcode.com/2020/day/21) | [Allergen Assessment](day21/) | [![Language - Java](https://img.shields.io/badge/Java-B07219.svg?style=for-the-badge)](day21/allergen_assessment.java) | :star: :star: |
+| [22](https://adventofcode.com/2020/day/22) | [Crab Combat](day22/) | [![Language - Java](https://img.shields.io/badge/Java-B07219.svg?style=for-the-badge)](day22/crab_combat.java) | :star: :star: |
 
 #### Note - Viewing the Scratch solutions
 You can easily see the Scratch solutions for yourself, by simply:
