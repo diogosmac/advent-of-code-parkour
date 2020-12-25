@@ -2,7 +2,7 @@
 
 This repository will contain my solutions for [Advent of Code 2020](https://adventofcode.com/2020/).
 
-Languages used so far:
+Languages used:
 
 ![Language - Python](https://img.shields.io/badge/Python-3572a5.svg)
 ![Language - Scratch](https://img.shields.io/badge/Scratch-FFAB19.svg)
