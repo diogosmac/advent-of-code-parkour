@@ -36,6 +36,7 @@ Languages used so far:
 | [21](https://adventofcode.com/2020/day/21) | [Allergen Assessment](day21/) | [![Language - Java](https://img.shields.io/badge/Java-B07219.svg?style=for-the-badge)](day21/allergen_assessment.java) | :star: :star: |
 | [22](https://adventofcode.com/2020/day/22) | [Crab Combat](day22/) | [![Language - Java](https://img.shields.io/badge/Java-B07219.svg?style=for-the-badge)](day22/crab_combat.java) | :star: :star: |
 | [23](https://adventofcode.com/2020/day/23) | [Crab Cups](day23/) | [![Language - Java](https://img.shields.io/badge/Java-B07219.svg?style=for-the-badge)](day23/crab_cups.java) | :star: :star: |
+| [24](https://adventofcode.com/2020/day/24) | [Lobby Layout](day24/) | [![Language - Java](https://img.shields.io/badge/Java-B07219.svg?style=for-the-badge)](day24/lobby_layout.java) | :star: :star: |
 
 #### Note - Viewing the Scratch solutions
 You can easily see the Scratch solutions for yourself, by simply:
